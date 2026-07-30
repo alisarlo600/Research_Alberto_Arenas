@@ -1,0 +1,8 @@
+artifact_uri: /content/mlruns/1/0b571ef280f0403c812961673cb7d98e/artifacts
+end_time: 1784882680541
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b571ef280f0403c812961673cb7d98e
+run_name: Autoencoder_seed43
+start_time: 1784882252525
+status: FINISHED

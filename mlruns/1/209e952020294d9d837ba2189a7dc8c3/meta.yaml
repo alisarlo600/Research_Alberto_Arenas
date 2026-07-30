@@ -1,0 +1,8 @@
+artifact_uri: /content/mlruns/1/209e952020294d9d837ba2189a7dc8c3/artifacts
+end_time: 1784879594726
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 209e952020294d9d837ba2189a7dc8c3
+run_name: LSTM_seed43
+start_time: 1784878481269
+status: FINISHED

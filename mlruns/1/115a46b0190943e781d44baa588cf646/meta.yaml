@@ -1,0 +1,8 @@
+artifact_uri: /content/mlruns/1/115a46b0190943e781d44baa588cf646/artifacts
+end_time: 1784876413590
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 115a46b0190943e781d44baa588cf646
+run_name: MLP_seed43
+start_time: 1784875939344
+status: FINISHED
